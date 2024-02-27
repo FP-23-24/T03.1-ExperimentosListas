@@ -1,4 +1,5 @@
-# T03.1-ExperimentosListas
+# T03.1-Experimentos Listas
+Autor: Toñi Reina
 
 El objetivo de este experimento es ver cómo funcionan algunos de los métodos para trabajar con listas en Java.
 
